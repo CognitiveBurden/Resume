@@ -5,6 +5,7 @@
 **- email:** <jim.everett@gmail.com>
 
 ----
+I am a leader who is passionate about reducing the complexity inherent in the creation and maintenance of software. I am seeking company whose culture values curiosity, learning and feedback.
 
 ### Qualifications Summary
 - M.S. Computer Science William & Mary (2005)
@@ -13,7 +14,7 @@
 
 ### *Professional Experience*
 
-#### **Optum Inc.** (Subsidiary of United Health Group) - *Columbus, OH*, **January 2010 - Present**
+#### **Optum Services, Inc.** (Subsidiary of United Health Group) - *Columbus, OH*, **January 2010 - Present**
 
 ##### **Application Development Manager**, January 2014 - Present
 - Managed four senior developers

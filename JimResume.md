@@ -6,18 +6,24 @@
 **- email:** <jim.everett@gmail.com>
 
 ----
-I am a leader who is passionate about reducing the complexity inherent in the creation and maintenance of software. I am seeking company whose culture values curiosity, learning and feedback.
+I am a leader who is passionate about reducing the complexity inherent in the creation and maintenance of software. I am seeking a company whose culture values curiosity, learning and feedback.
 
 ### Qualifications Summary
-- M.S. Computer Science William & Mary (2005)
-- B.S. Computer Science William & Mary (2001)
+- M.S. Computer Science The College of William & Mary (2005)
+- B.S. Computer Science The College of William & Mary (2001)
 - Microsoft Certified Professional
 
 ### *Professional Experience*
 
-#### **Optum Services, Inc.** (Subsidiary of United Health Group) - *Columbus, OH*, **January 2010 - Present**
+#### **HMB, Inc.** - *Westerville, OH*, **August 2014 - Present**
+##### Senior Consultant
+- Led a ten person team in mitigation of a problematic application to restore business value
+- Performed assessment to aid client in evaluation of custom $3.5 million mission critical software
+- Spearheaded the formation of an internal educational forum to discuss architecture and design topics
 
-##### **Application Development Manager**, January 2014 - Present
+#### **Optum Services, Inc.** (Subsidiary of United Health Group) - *Columbus, OH*, **January 2010 - August 2014**
+
+##### **Application Development Manager**, January 2014 - August 2014
 - Managed four senior developers
 - Led a $1.8 million dollar collections management project with the goal of consolidating business processes and software tools
 
@@ -28,8 +34,8 @@ I am a leader who is passionate about reducing the complexity inherent in the cr
 - Introduced Continuous Deployment initiative
 
 ##### **Senior Application Developer**, January 2010 - January 2013
-- Led development efforts for a \$1.5 million dollar project to manage recovery efforts for self insured companies
-- Introduced Scrum to team of thirty developers, twenty quality assurance analysts, and fifteen system analysts
+- Led development efforts for a $1.5 million dollar project to manage recovery efforts for self insured companies
+- Introduced Scrum to a team of thirty developers, twenty quality assurance analysts, and fifteen system analysts
 - Played role of Scrum Master for a development team, while providing technical guidance
 - Formed and facilitated a technical book club
 
@@ -58,7 +64,7 @@ I am a leader who is passionate about reducing the complexity inherent in the cr
 Highly proficient in multiple facets of solution discovery,
 implementation and delivery; including:
 
-Microsoft Visual Studio.Net, C\#, F\#, Powershell, Windows Communication
+Microsoft Visual Studio.Net, C#, F#, Powershell, Windows Communication
 Workflow (WCF), Windows Presentation Foundation (WPF), Rhino Mock, Moq,
 Continuous Integration, SOLID Principles, Single Responsibility
 Principle (SRP), Open-Closed Principle (OPC), Liskov Substitution
@@ -69,6 +75,4 @@ JavaScript, Microsoft SQL Server, T-SQL, Test-Driven Development (TDD),
 Object-Oriented Analysis and Design (OOAD), Microsoft Internet
 Information Server (IIS), Windows, Active Directory, LDAP, ADO.Net,
 Design Patterns, Stored Procedures, Scrum, Agile, Ajax, jQuery,
-Resharper
-
-
+Resharper, Microsoft Azure, Rake, NHibernate
